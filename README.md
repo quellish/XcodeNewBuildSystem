@@ -1,3 +1,5 @@
+# Faster Swift Builds with the New Xcode Build System
+
 In Xcode 9 Apple [quietly introduced a new build system].  This is a “preview” and is not enabled by default. It promises improvements in build times as well as changes to how object dependencies in Swift are handled. 
 [Circular dependencies] have long been a major pain point for Swift developers. They can cause unpredictable behavior when editing, long build times, and Xcode crashes.
 
