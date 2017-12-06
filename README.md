@@ -28,3 +28,5 @@ This will display the **Workspace Settings** sheet where you can switch between 
 ![Workspace Settings](newbuildsystem.png "Workspace Settings")
 
 That’s it! Building your project should be X percent faster now. An added benefit is that live editing and code completion should also be faster and more stable. 
+
+Originally published on [LinkedIn Pulse](https://www.linkedin.com/pulse/get-faster-more-stable-xcode-your-swift-projects-dan-zinngrabe/)
